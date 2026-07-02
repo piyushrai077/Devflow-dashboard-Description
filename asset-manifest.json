@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Devflow-dashboard-Description/static/css/main.8685cb8c.css",
+    "main.js": "/Devflow-dashboard-Description/static/js/main.23ddc378.js",
+    "index.html": "/Devflow-dashboard-Description/index.html",
+    "main.8685cb8c.css.map": "/Devflow-dashboard-Description/static/css/main.8685cb8c.css.map",
+    "main.23ddc378.js.map": "/Devflow-dashboard-Description/static/js/main.23ddc378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8685cb8c.css",
+    "static/js/main.23ddc378.js"
+  ]
+}
